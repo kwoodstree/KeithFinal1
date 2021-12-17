@@ -1,0 +1,19 @@
+body {
+    font-family: 'Georgia', serif;
+    color: black;
+}
+
+.main-image {
+    border: solid 4px black;
+    border-radius: 50%;
+}
+
+h1 {
+    background-color: black;
+    padding: 5px;
+    color: white;
+}
+
+.section-title {
+    text-transform: capitalize;
+}
