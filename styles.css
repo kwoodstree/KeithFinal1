@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/newimage.jpg') no-repeat top center ;
+  background: url('images/newimage.jpeg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -203,4 +203,28 @@ a.social:hover {
     margin: 40px auto;
   }
 
+}
+.experience-body {
+    font-family: 'Georgia', serif;
+    margin-left: 10px;
+    text-align: left;
+    color: black;
+}
+
+.main-image {
+    margin-top: 8%;
+    margin-left: 10px;
+    padding-top: 0;
+    border: solid 4px black;
+    border-radius: 50%;
+}
+
+h1 {
+    background-color: black;
+    padding: 5px;
+    color: white;
+}
+
+.section-title {
+    text-transform: capitalize;
 }
