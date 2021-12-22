@@ -104,7 +104,12 @@ header .profile-image:hover {
 
 ul.skills {
   padding: 0;
-  text-align: center;
+  text-align: left;
+}
+
+.text-left {
+ text-align: left;
+
 }
 
 .skills li {
